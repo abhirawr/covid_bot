@@ -1,0 +1,5 @@
+things to add implement
+
+- posting the daily deaths, confirmed, and recovered
+- replying to comment inquiries that ask for certain country stats
+- creating simple bar graph to post with each post
